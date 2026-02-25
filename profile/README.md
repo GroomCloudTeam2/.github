@@ -34,7 +34,7 @@ Terraform을 이용한 **IaC(Infrastructure as Code)**와 ArgoCD 기반의 **Git
 | **Database** | PostgreSQL 15, Redis, Amazon RDS, Amazon ElastiCache |
 | **Message Broker** | Apache Kafka |
 | **Infra** | AWS (EKS, VPC, ALB, NAT Gateway, S3), Terraform, Kubernetes, Helm, Istio, Karpenter |
-| **DevOps** | ArgoCD, Argo Rollouts, Jenkins, GitHub Actions |
+| **DevOps** | ArgoCD, Argo Rollouts, Jenkins|
 | **Monitoring** | Prometheus, Grafana, Loki, Tempo (LGTM Stack), OpenTelemetry |
 
 ## 아키텍처
