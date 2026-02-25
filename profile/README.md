@@ -8,11 +8,11 @@ Terraform을 이용한 **IaC(Infrastructure as Code)**와 ArgoCD 기반의 **Git
 
 ## 팀원 소개
 
-| Project Leader CICD | Backend | Infra | DevOps |
-| :------------------: | :--------------------: | :--------------------: | :-----------------: |
-| <img src="https://avatars.githubusercontent.com/boxty123" width="100"/> | <img src="https://avatars.githubusercontent.com/mingdul" width="100"/> | <img src="https://avatars.githubusercontent.com/seoyun0311" width="100"/> | <img src="https://avatars.githubusercontent.com/yyytgf123" width="100"/> |
-| [@boxty123](https://github.com/boxty123) | [@mingdul](https://github.com/mingdul) | [@seoyun0311](https://github.com/seoyun0311) | [@yyytgf123](https://github.com/yyytgf123) |
-| 이정현 | 장지민 | 양서윤 | 이현호 |
+| Project Leader CICD | Backend | Infra | DevOps | Infra |
+| :------------------: | :--------------------: | :--------------------: | :-----------------: | :-----------------: |
+| <img src="https://avatars.githubusercontent.com/boxty123" width="100"/> | <img src="https://avatars.githubusercontent.com/mingdul" width="100"/> | <img src="https://avatars.githubusercontent.com/seoyun0311" width="100"/> | <img src="https://avatars.githubusercontent.com/yyytgf123" width="100"/> | <img src="https://avatars.githubusercontent.com/songhyeonsu1029" width="100"/>
+| [@boxty123](https://github.com/boxty123) | [@mingdul](https://github.com/mingdul) | [@seoyun0311](https://github.com/seoyun0311) | [@yyytgf123](https://github.com/yyytgf123) | [@songhyeonsu1029](https://github.com/songhyeonsu1029)
+| 이정현 | 장지민 | 양서윤 | 이현호 | 송현수
 
 ## 핵심 기능
 
@@ -34,7 +34,7 @@ Terraform을 이용한 **IaC(Infrastructure as Code)**와 ArgoCD 기반의 **Git
 | **Database** | PostgreSQL 15, Redis, Amazon RDS, Amazon ElastiCache |
 | **Message Broker** | Apache Kafka |
 | **Infra** | AWS (EKS, VPC, ALB, NAT Gateway, S3), Terraform, Kubernetes, Helm, Istio, Karpenter |
-| **DevOps** | ArgoCD, Argo Rollouts, Jenkins, GitHub Actions |
+| **DevOps** | ArgoCD, Argo Rollouts, Jenkins|
 | **Monitoring** | Prometheus, Grafana, Loki, Tempo (LGTM Stack), OpenTelemetry |
 
 ## 아키텍처
